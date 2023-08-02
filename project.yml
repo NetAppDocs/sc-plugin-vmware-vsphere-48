@@ -1,4 +1,5 @@
 ---
+jekyll: jekyllai-testing
 settings:
   name: SnapCenter Plug-in for VMware vSphere 4.8
   internal:
